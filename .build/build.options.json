@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "../..,../../..,../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "esp32:esp32:esp32da:PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,LoopCore=1,EventsCore=1,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "/Users/loki/Library/Arduino15/packages",
+  "otherLibrariesFolders": "/Users/loki/Documents/Arduino/libraries",
+  "sketchLocation": "/Users/loki/Documents/Project/esp32.display/text"
+}
