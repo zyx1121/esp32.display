@@ -6,3 +6,4 @@
 - 並聯四顆 74154 作為 64 位元掃描線
 
 ![IMG_0663](https://github.com/zyx1121/esp32.display/assets/98001197/bfc765c1-9e5f-4761-9545-4a15c7133001)
+![Uploading IMG_0666.jpeg…]()
